@@ -1,9 +1,9 @@
-Overview
-
+**Overview
+**
 This repository provides a comprehensive review and analysis of Netflix movie data. The project aims to explore patterns, trends, and insights into the content available on Netflix, including genre preferences, ratings, release patterns, and audience behavior.
 
-Features
-
+**Features
+**
 Data Cleaning and Preprocessing: Handling missing values, duplicates, and inconsistent data formats.
 
 Exploratory Data Analysis (EDA): Detailed analysis of:
@@ -20,8 +20,8 @@ Insights: Key findings from the data analysis.
 
 Machine Learning Models (Optional): Predictive analysis on ratings or genre classification.
 
-Dataset
-
+**Dataset
+**
 The dataset includes the following columns:
 
 Title: The name of the movie.
@@ -35,3 +35,11 @@ Rating: Audience ratings.
 Duration: Length of the movie.
 
 Description: A short summary of the movie.
+
+**Future Scope
+**
+Extend Analysis: Include TV shows and explore their patterns.
+
+Recommendation Systems: Build personalized recommendation models.
+
+Sentiment Analysis: Analyze audience reviews for deeper insights.
